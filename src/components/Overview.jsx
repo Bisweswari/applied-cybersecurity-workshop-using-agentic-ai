@@ -22,7 +22,7 @@ function Overview() {
             {/* LEFT SIDE - TEXT */}
             <div className="text-left max-w-xl space-y-5">
               <p className="text-gray-200 leading-relaxed text-lg text-justify">
-                The 5-day Applied CyberSecurity Workshop is designed to
+                The 5-day Workshop is designed to
                 introduce{" "}
                 <span className="text-pink-300 font-semibold">
                   the application of Multi Agentic AI techniques in the field of
