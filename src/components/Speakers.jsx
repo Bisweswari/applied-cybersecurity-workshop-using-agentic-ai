@@ -37,7 +37,7 @@ function Speakers() {
     {
       name: "Jyoti Kumari",
       role: "Cybersecurity Expert",
-      image: "/Jyoti Kumari.jpg",
+      image: "/Jyoti Kumari.jpeg",
       link: "https://www.linkedin.com/in/jyoti-kumari-153a65211/",
     },
     {
