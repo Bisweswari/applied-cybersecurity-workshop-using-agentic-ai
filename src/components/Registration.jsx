@@ -130,7 +130,7 @@ function Registration() {
             <hr className="border-gray-300 my-6" />
 
             <p className="text-red-600 font-semibold text-base md:text-lg text-justify">
-              ⚠ Available seats for the Speech Processing Workshop are Limited.
+              ⚠ Available seats for the Applied Cybersecurity using Multi Agentic AI Workshop are Limited.
             </p>
           </div>
         </div>
