@@ -25,7 +25,7 @@ function Overview() {
                 The 5-day Applied CyberSecurity Workshop is designed to
                 introduce{" "}
                 <span className="text-pink-300 font-semibold">
-                  the application of Agenic AI techniques in the field of
+                  the application of Multi Agentic AI techniques in the field of
                   Applied CyberSecurity
                 </span>
                 , scheduled from 23rd May 2026 to 27th May 2026 (Online Mode).
