@@ -13,7 +13,7 @@ function Speakers() {
     {
       name: "Pooja Lakhani",
       role: "Capgemini Aricent Technologies (Holdings) Limited, Australia",
-      image: "/Pooja Lakhani.jpg",
+      image: "/Pooja Lakhani.jpeg",
       link: "https://www.linkedin.com/in/pooja-lakhani-604a3a14/",
     },
     {
