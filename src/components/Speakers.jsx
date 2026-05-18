@@ -14,7 +14,7 @@ function Speakers() {
       name: "Pooja Lakhani",
       role: "Capgemini Aricent Technologies (Holdings) Limited, Australia",
       image: "/Pooja Lakhani.jpg",
-      link: "https://www.linkedin.com/in/pooja-lakhan-616489134/",
+      link: "https://www.linkedin.com/in/pooja-lakhani-604a3a14/",
     },
     {
       name: "Dr. Sumit Kumar Tetarave",
