@@ -47,22 +47,16 @@ function Speakers() {
       link: "https://departments.nitj.ac.in/dept/it/Faculty/671a0f9ac9797782308bbd2d",
     },
     {
-      name: "Mr. Sidhartha Dash",
-      role: "TCS, Bhubaneswar",
-      image: "/Mr. Sidhartha Dash.jpg",
-      link: "https://www.linkedin.com/in/sidhartha-dash-1276364/",
-    },
-    {
       name: "Mr. Ajaya Kumar Lenka",
       role: "Director & CEO CVAAT Solutions Pvt. Ltd",
       image: "/Mr. Ajaya Kumar Lenka.png",
       link: "https://www.linkedin.com/in/ajaya-kumar-lenka-44044968/",
     },
     {
-      name: "Mr. Suresh Mishra",
-      role: "IBM",
-      image: "/Mr. Suresh Mishra.jpg",
-      link: "https://www.linkedin.com/in/suresh-mishra-751b677/",
+      name: "Dr. Ferdous Ahmed Barbhuiya",
+      role: "International Institute of Information Technology(IIIT), Guwahati",
+      image: "/Dr. Ferdous Ahmed Barbhuiya.jpg",
+      link: "https://www.iiitg.ac.in/computer-science-and-engineering/dr-ferdous-ahmed-barbhuiya-2",
     },
   ];
 
